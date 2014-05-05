@@ -21,6 +21,19 @@
 		12164AD2191605D4001D5FB9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12164AB4191605D3001D5FB9 /* UIKit.framework */; };
 		12164ADA191605D4001D5FB9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 12164AD8191605D4001D5FB9 /* InfoPlist.strings */; };
 		12164ADC191605D4001D5FB9 /* CrazyDragTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12164ADB191605D4001D5FB9 /* CrazyDragTests.m */; };
+		12164AE8191638B6001D5FB9 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12164AE6191638B6001D5FB9 /* AboutViewController.m */; };
+		12164AE9191638B6001D5FB9 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 12164AE7191638B6001D5FB9 /* AboutViewController.xib */; };
+		12164B07191644EC001D5FB9 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164AFE191644EC001D5FB9 /* Background.png */; };
+		12164B08191644EC001D5FB9 /* Button-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164AFF191644EC001D5FB9 /* Button-Highlighted.png */; };
+		12164B09191644EC001D5FB9 /* Button-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B00191644EC001D5FB9 /* Button-Normal.png */; };
+		12164B0A191644EC001D5FB9 /* SliderThumb-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B01191644EC001D5FB9 /* SliderThumb-Highlighted.png */; };
+		12164B0B191644EC001D5FB9 /* SliderThumb-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B02191644EC001D5FB9 /* SliderThumb-Normal.png */; };
+		12164B0C191644EC001D5FB9 /* SliderTrackLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B03191644EC001D5FB9 /* SliderTrackLeft.png */; };
+		12164B0D191644EC001D5FB9 /* SliderTrackRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B04191644EC001D5FB9 /* SliderTrackRight.png */; };
+		12164B0E191644EC001D5FB9 /* StartOverButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B05191644EC001D5FB9 /* StartOverButton.png */; };
+		12164B0F191644EC001D5FB9 /* StartOverIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 12164B06191644EC001D5FB9 /* StartOverIcon.png */; };
+		12164B11191670FC001D5FB9 /* CrazyDrag.html in Resources */ = {isa = PBXBuildFile; fileRef = 12164B10191670FC001D5FB9 /* CrazyDrag.html */; };
+		1227235F19168BB700BEA7BB /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1227235E19168BB700BEA7BB /* no.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +66,20 @@
 		12164AD7191605D4001D5FB9 /* CrazyDragTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CrazyDragTests-Info.plist"; sourceTree = "<group>"; };
 		12164AD9191605D4001D5FB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		12164ADB191605D4001D5FB9 /* CrazyDragTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CrazyDragTests.m; sourceTree = "<group>"; };
+		12164AE5191638B6001D5FB9 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		12164AE6191638B6001D5FB9 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		12164AE7191638B6001D5FB9 /* AboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
+		12164AFE191644EC001D5FB9 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		12164AFF191644EC001D5FB9 /* Button-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Highlighted.png"; sourceTree = "<group>"; };
+		12164B00191644EC001D5FB9 /* Button-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Normal.png"; sourceTree = "<group>"; };
+		12164B01191644EC001D5FB9 /* SliderThumb-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Highlighted.png"; sourceTree = "<group>"; };
+		12164B02191644EC001D5FB9 /* SliderThumb-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Normal.png"; sourceTree = "<group>"; };
+		12164B03191644EC001D5FB9 /* SliderTrackLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackLeft.png; sourceTree = "<group>"; };
+		12164B04191644EC001D5FB9 /* SliderTrackRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackRight.png; sourceTree = "<group>"; };
+		12164B05191644EC001D5FB9 /* StartOverButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverButton.png; sourceTree = "<group>"; };
+		12164B06191644EC001D5FB9 /* StartOverIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverIcon.png; sourceTree = "<group>"; };
+		12164B10191670FC001D5FB9 /* CrazyDrag.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CrazyDrag.html; sourceTree = "<group>"; };
+		1227235E19168BB700BEA7BB /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +139,17 @@
 		12164AB6191605D3001D5FB9 /* CrazyDrag */ = {
 			isa = PBXGroup;
 			children = (
+				1227235D19168BB700BEA7BB /* music */,
+				12164AFD191644EC001D5FB9 /* Images */,
+				12164B10191670FC001D5FB9 /* CrazyDrag.html */,
 				12164ABF191605D3001D5FB9 /* CrazyDragAppDelegate.h */,
 				12164AC0191605D4001D5FB9 /* CrazyDragAppDelegate.m */,
 				12164AC2191605D4001D5FB9 /* Main.storyboard */,
 				12164AC5191605D4001D5FB9 /* CrazyDragViewController.h */,
 				12164AC6191605D4001D5FB9 /* CrazyDragViewController.m */,
+				12164AE5191638B6001D5FB9 /* AboutViewController.h */,
+				12164AE6191638B6001D5FB9 /* AboutViewController.m */,
+				12164AE7191638B6001D5FB9 /* AboutViewController.xib */,
 				12164AC8191605D4001D5FB9 /* Images.xcassets */,
 				12164AB7191605D3001D5FB9 /* Supporting Files */,
 			);
@@ -150,6 +183,31 @@
 				12164AD8191605D4001D5FB9 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		12164AFD191644EC001D5FB9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				12164AFE191644EC001D5FB9 /* Background.png */,
+				12164AFF191644EC001D5FB9 /* Button-Highlighted.png */,
+				12164B00191644EC001D5FB9 /* Button-Normal.png */,
+				12164B01191644EC001D5FB9 /* SliderThumb-Highlighted.png */,
+				12164B02191644EC001D5FB9 /* SliderThumb-Normal.png */,
+				12164B03191644EC001D5FB9 /* SliderTrackLeft.png */,
+				12164B04191644EC001D5FB9 /* SliderTrackRight.png */,
+				12164B05191644EC001D5FB9 /* StartOverButton.png */,
+				12164B06191644EC001D5FB9 /* StartOverIcon.png */,
+			);
+			name = Images;
+			path = ../Images;
+			sourceTree = "<group>";
+		};
+		1227235D19168BB700BEA7BB /* music */ = {
+			isa = PBXGroup;
+			children = (
+				1227235E19168BB700BEA7BB /* no.mp3 */,
+			);
+			path = music;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +287,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1227235F19168BB700BEA7BB /* no.mp3 in Resources */,
 				12164AC9191605D4001D5FB9 /* Images.xcassets in Resources */,
 				12164ABB191605D3001D5FB9 /* InfoPlist.strings in Resources */,
+				12164B09191644EC001D5FB9 /* Button-Normal.png in Resources */,
+				12164B0C191644EC001D5FB9 /* SliderTrackLeft.png in Resources */,
+				12164B11191670FC001D5FB9 /* CrazyDrag.html in Resources */,
+				12164B07191644EC001D5FB9 /* Background.png in Resources */,
+				12164B08191644EC001D5FB9 /* Button-Highlighted.png in Resources */,
+				12164AE9191638B6001D5FB9 /* AboutViewController.xib in Resources */,
+				12164B0D191644EC001D5FB9 /* SliderTrackRight.png in Resources */,
+				12164B0E191644EC001D5FB9 /* StartOverButton.png in Resources */,
+				12164B0F191644EC001D5FB9 /* StartOverIcon.png in Resources */,
 				12164AC4191605D4001D5FB9 /* Main.storyboard in Resources */,
+				12164B0B191644EC001D5FB9 /* SliderThumb-Normal.png in Resources */,
+				12164B0A191644EC001D5FB9 /* SliderThumb-Highlighted.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +322,7 @@
 			files = (
 				12164AC1191605D4001D5FB9 /* CrazyDragAppDelegate.m in Sources */,
 				12164ABD191605D3001D5FB9 /* main.m in Sources */,
+				12164AE8191638B6001D5FB9 /* AboutViewController.m in Sources */,
 				12164AC7191605D4001D5FB9 /* CrazyDragViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -380,6 +451,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CrazyDrag/CrazyDrag-Prefix.pch";
 				INFOPLIST_FILE = "CrazyDrag/CrazyDrag-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -393,6 +465,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CrazyDrag/CrazyDrag-Prefix.pch";
 				INFOPLIST_FILE = "CrazyDrag/CrazyDrag-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -457,6 +530,7 @@
 				12164AE1191605D4001D5FB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12164AE2191605D4001D5FB9 /* Build configuration list for PBXNativeTarget "CrazyDragTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +539,7 @@
 				12164AE4191605D4001D5FB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
